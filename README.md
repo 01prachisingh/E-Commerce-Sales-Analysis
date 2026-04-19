@@ -5,7 +5,7 @@ This project focuses on analyzing e-commerce sales data using SQL. It helps extr
 The dataset used in this project is sourced from Kaggle, a publicly available open data platform.
 
 📁 Dataset: E-Commerce Sales Dataset
-🔗 Source: Kaggle 
+🔗 Source: Processed and modeled Kaggle e-commerce dataset into a structured relational database for SQL-based analysis
 
 The dataset was cleaned and structured to fit a relational database model for SQL analysis.
 
