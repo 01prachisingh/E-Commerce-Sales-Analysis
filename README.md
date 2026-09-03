@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Analysis
+# E-Commerce-Sales-Analysis-Using-SQL
 This project focuses on analyzing e-commerce sales data using SQL. It helps extract meaningful business insights such as top-selling products, customer behavior, and overall revenue performance using structured queries.
 📊 Data Source
 
