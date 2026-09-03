@@ -3,7 +3,6 @@ This project analyzes e-commerce sales data using SQL to uncover insights about 
 
 📊 Data Source-The dataset used in this project is sourced from Kaggle, a publicly available open data platform.
 📁 Dataset: E-Commerce Sales Dataset
-
 🔗 Source: Processed and modeled Kaggle e-commerce dataset into a structured relational database for SQL-based analysis
 
 🎯 Objective-Analyze sales performance of an e-commerce system
