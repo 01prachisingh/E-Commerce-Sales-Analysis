@@ -1,16 +1,10 @@
 # E-Commerce-Sales-Analysis-Using-SQL
-This project focuses on analyzing e-commerce sales data using SQL. It helps extract meaningful business insights such as top-selling products, customer behavior, and overall revenue performance using structured queries.
-📊 Data Source
+This project analyzes e-commerce sales data using SQL to uncover insights about revenue, customer behavior, product performance, and order trends. The dataset was cleaned and modeled into a relational database so it could be queried efficiently for business analysis.
 
-The dataset used in this project is sourced from Kaggle, a publicly available open data platform.
-
+📊 Data Source-The dataset used in this project is sourced from Kaggle, a publicly available open data platform.
 📁 Dataset: E-Commerce Sales Dataset
 🔗 Source: Processed and modeled Kaggle e-commerce dataset into a structured relational database for SQL-based analysis
-
-The dataset was cleaned and structured to fit a relational database model for SQL analysis.
-
-🎯 Objective
-Analyze sales performance of an e-commerce system
+🎯 Objective-Analyze sales performance of an e-commerce system
 Identify top customers and best-selling products
 Understand revenue trends using SQL queries
 Practice real-world data analysis using relational databases
